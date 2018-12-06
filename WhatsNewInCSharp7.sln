@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNewInCSharp7", "WhatsNewInCSharp7\WhatsNewInCSharp7.csproj", "{C7A9CAE1-2E30-4BB2-B56C-D2314ECCF972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A9CAE1-2E30-4BB2-B56C-D2314ECCF972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A9CAE1-2E30-4BB2-B56C-D2314ECCF972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A9CAE1-2E30-4BB2-B56C-D2314ECCF972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A9CAE1-2E30-4BB2-B56C-D2314ECCF972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E76F78-A658-427A-893D-EDAA7F13DB28}
+	EndGlobalSection
+EndGlobal
